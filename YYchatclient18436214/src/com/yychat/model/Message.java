@@ -36,4 +36,4 @@ public class Message implements Serializable,MessageType{
 	
 	
 
-}
+}//00
